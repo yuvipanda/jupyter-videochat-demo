@@ -2,4 +2,4 @@
 
 set -euo pipefail
 
-jupyter labextension install jupyterlab-videochat@0.1.0
+jupyter labextension install jupyterlab-videochat@0.1.1
