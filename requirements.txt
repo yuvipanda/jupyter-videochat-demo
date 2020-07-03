@@ -1,2 +1,2 @@
 jupyterlab>=2.0.0
-git+https://github.com/yuvipanda/jupyter-videochat.git@954dbf1880a921d396912e04f77559a788b99960
+git+https://github.com/yuvipanda/jupyter-videochat.git@4bb7f027bb77d8370d210c5cff482a80cc17c675
